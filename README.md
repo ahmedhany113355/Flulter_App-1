@@ -132,10 +132,10 @@ Upon pressing Logout, all stored data is cleared, and the user is taken back to 
 
 ---
 These are the pictures of the application
-![image](C:\Users\ahmed\Pictures\Screenshots\7\1.png)
-![image](C:\Users\ahmed\Pictures\Screenshots\7\2.png)
-![image](C:\Users\ahmed\Pictures\Screenshots\7\3.png)
-![image](C:\Users\ahmed\Pictures\Screenshots\7\4.png)
-![image](C:\Users\ahmed\Pictures\Screenshots\7\5.png)
-![image](C:\Users\ahmed\Pictures\Screenshots\7\6.png)
-![image](C:\Users\ahmed\Pictures\Screenshots\7\7.png)
+![image](assets/1.png)
+![image](assets/2.png)
+![image](assets/3.png)
+![image](assets/4.png)
+![image](assets/5.png)
+![image](assets/6.png)
+![image](assets/7.png)
